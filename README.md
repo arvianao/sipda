@@ -1,2 +1,2 @@
-# sipda.rema.upi
+# sipda
 Sistem Pemilihan Daring
